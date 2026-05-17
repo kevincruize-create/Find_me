@@ -1,0 +1,12 @@
+@media (max-width: 700px)
+{
+  .text-xs
+  {
+    font-size: 10px;
+  }
+
+  .text-2xl
+  {
+    font-size: 12px;
+  }
+}
